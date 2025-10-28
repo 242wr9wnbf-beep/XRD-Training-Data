@@ -3,7 +3,7 @@ import pandas as pd
 
 # --- USER SETTINGS ---
 # Replace these with your actual file names or paths
-file1 = "sample1.xy"
+file1 = "RSE8652_PVSK_Film_1-1-01_001.xy"
 file2 = "sample2.xy"
 file3 = "sample3.xy"
 

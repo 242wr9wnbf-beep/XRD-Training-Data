@@ -4,8 +4,8 @@ import pandas as pd
 # --- USER SETTINGS ---
 # Replace these with your actual file names or paths
 file1 = "RSE8652_PVSK_Film_1-1-01_001.xy"
-file2 = "sample2.xy"
-file3 = "sample3.xy"
+file2 = "RSE8653_PVSK_Film_2-1-02_001.xy"
+file3 = "RSE8654_PVSK_Film_3-1-02_001.xy"
 
 # Optional labels for the legend
 labels = ["Sample 1", "Sample 2", "Sample 3"]
